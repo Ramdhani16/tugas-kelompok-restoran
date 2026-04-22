@@ -27,3 +27,9 @@ Program ini mensimulasikan sistem antrian restoran menggunakan Queue, Deque, dan
 7. Jika undo:
    - Ambil dari stack → masukkan ke antrian
 8. Selesai
+
+
+
+
+## Flowchart
+![Flowchart](flowchart.png)
